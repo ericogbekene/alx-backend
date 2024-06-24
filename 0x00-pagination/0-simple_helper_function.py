@@ -4,7 +4,7 @@ module to create a simple helper function
 """
 
 
-def index_range(page: int , page_size: int) -> tuple:
+def index_range(page: int, page_size: int) -> tuple:
     """
     """
     if page == 1:
